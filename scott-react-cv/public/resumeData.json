@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Scott Brown",
+    "occupation": "Website Developer & Marketing Specialist",
+    "description": "I am a highly motivated and passionate developer with a vision to positively change the world through innovation in technology",
+    "image": "profilepic.jpg",
+    "bio": "I am a highly motivated and passionate person and I believe innovation in technology is the key to a brighter future and I strive to take on opportunities that enable me to contribute toward this vision. Over the past 5 years of my career I have refined my skill set to create a fusion of expertise in development and marketing that has allowed me to achieve incredible things and I am now looking to take the next step in my adventure and create my best work yet!",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "scott@ethereal-material.com",
+    "phone": "0488 025 764",
+    "address": {
+      "street": "Gosford",
+      "city": "Central Coast",
+      "state": "New South Wales",
+      "zip": "2250"
+    },
+    "website": "http://www.ethereal-material.com",
+    "resumedownload": "http://ethereal-material.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/scottkbrown91",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/thetattooedtechnologist/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/_ethereal.material",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/scottkbrown2020",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Over the past 11 years I have worked for a variety of organisations from agency, to corporate, to start up, all of which has given me a breadth of experience that allows me to be highly adaptable and creative in solving problems. Some of my key strengths are:",
+    "work": [
+      {
+        "company": "AgriWebb Pty Ltd",
+        "title": "Website & Marketing Operations Manager",
+        "years": "March 2020 - Present",
+        "description": "At AgriWebb I am responsible for the development & management of all AgriWebb website assets globally including the creation of high performing landing pages, developing plugins to facilitate functional requirements, API development, and integrating the website as seamlessly as possible with our product. Additionally I am responsible for the management and integration across our entire MarTech stack including systems such as SalesForce, Pardot, Zoom, Intercom, and various others."
+      },
+      {
+        "company": "Ones&Zeros Consulting",
+        "title": "Founder & Senior Web Developer",
+        "years": "November 2017 - February 2020",
+        "description": "Ones&zeros was established in early 2017 to allow me the freedom to get some travelling under my belt whilst providing my consultancy & development services. I built a client base to 17 over a three year period and completed various pieces of work from full website builds, solutions consulting, CRO consulting & implementation, and more."
+      },
+      {
+        "company": "The Entourage Pty Ltd",
+        "title": "Technology Hub Manager",
+        "years": "April 2015 - June 2018",
+        "description": "In my role at The Entourage I was responsible for the maintenance & development of the technology assets across the entire business. I joined The Entourage at a period of time where they had yet to explore the critical role technology could play in their growth and I was tasked with strategising, scoping, and executing on the plan that would enable the business to revolutionise the private education sector. This role included everything from solutions architecture through to executing the development components, SEO & SMO, CRO, and we saw an incredible amount of success which the business has carried forward to this day."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript (Vanilla, ReactJS, Vue, JQuery)",
+        "level": "90%"
+      },
+      {
+        "name": "PHP (WordPress, Laravel/Blade)",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Marketing Automation Systems (SF, Pardot, Marketo)",
+        "level": "75%"
+      },
+      {
+        "name": "SASS/LESS",
+        "level": "70%"
+      },
+      {
+        "name": "Solidity",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AgriWebb Website",
+        "category": "The multi-region AgriWebb website with over 50k monthly visitors",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.agriwebb.com"
+      },
+      {
+        "title": "The Entourage Website",
+        "category": "Marketing website for The Entourage Pty Ltd with over 30k monthly visitors",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://www.the-entourage.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Scott is a highly diligent full stack engineer and an absolute dream to work with. Not only is he highly skilled at the bare coding but he’s also knowledgable when it comes to conversion rate optimisation and technical best practices. Every project under his care and attention absolutely flourished, and I’d love the chance to work with Scott again! Any team would be lucky to have him.",
+        "user": "Yasemin Demetriou"
+      },
+      {
+        "text": "Scott is a fast paced high intensity new breed of developer that the industry has been waiting for. His maturity levels for someone of his age are fantastic and this flows through into his work, he is not fazed by the things he does not know, he just see's them as things he is about to know very well.Whilst still relatively early on his career, Scott's future looks very bright and I hope to continue to work with him as he inevitably moves onwards and upwards in his career.",
+        "user": "Jason Fuller"
+      }
+    ]
+  }
+}
