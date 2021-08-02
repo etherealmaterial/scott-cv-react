@@ -3,9 +3,9 @@
     "name": "Scott Brown",
     "occupation": "Website Developer & Marketing Specialist",
     "description": "I am a highly motivated and passionate developer with a vision to positively change the world through innovation in technology",
-    "image": "profilepic.jpg",
+    "image": "scott_profile.jpg",
     "bio": "I am a highly motivated and passionate person and I believe innovation in technology is the key to a brighter future and I strive to take on opportunities that enable me to contribute toward this vision. Over the past 5 years of my career I have refined my skill set to create a fusion of expertise in development and marketing that has allowed me to achieve incredible things and I am now looking to take the next step in my adventure and create my best work yet!",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "Enter your details below and I will get in touch with you shortly!",
     "email": "scott@ethereal-material.com",
     "phone": "0488 025 764",
     "address": {
@@ -97,13 +97,13 @@
       {
         "title": "AgriWebb Website",
         "category": "The multi-region AgriWebb website with over 50k monthly visitors",
-        "image": "canadian-wanderlust.jpg",
+        "image": "agriwebb.png",
         "url": "https://www.agriwebb.com"
       },
       {
         "title": "The Entourage Website",
         "category": "Marketing website for The Entourage Pty Ltd with over 30k monthly visitors",
-        "image": "fury-fighting-gear.jpg",
+        "image": "the-entourage.png",
         "url": "https://www.the-entourage.com"
       }
     ]
