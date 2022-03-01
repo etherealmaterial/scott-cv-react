@@ -14,8 +14,8 @@
       "state": "New South Wales",
       "zip": "2250"
     },
-    "website": "http://www.ethereal-material.com",
-    "resumedownload": "http://ethereal-material.com",
+    "website": "https://profile.ethereal-material.com",
+    "resumedownload": "https://drive.google.com/file/d/1a1rNFqtJjYQNnSALu1YnkXB6nXGK8Mqx/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -69,32 +69,32 @@
     ],
     "skills": [
       {
-        "name": "JavaScript (Vanilla, ReactJS, Vue, JQuery)",
+        "name": "Website development & maintenance (WordPress, Magento, Headless CMS, custom platform builds)",
         "level": "90%"
       },
       {
-        "name": "PHP (WordPress, Laravel/Blade)",
-        "level": "80%"
+        "name": "HubSpot integration specialist inc. implementation with other key business tools (e.g. SalesForce, Drift, Intercom, Snowflake, etc)",
+        "level": "95%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "people management (both in-house and externals) including developers, IT managers, marketers, through to full teams",
+        "level": "85%"
       },
       {
-        "name": "Marketing Automation Systems (SF, Pardot, Marketo)",
+        "name": "Reporting up to executive teams on performance metrics inc. CAC, MQL, SQL, payback period, and various other key metrics",
         "level": "75%"
       },
       {
-        "name": "SASS/LESS",
+        "name": "Project & product management including roadmaps & feature scoping",
         "level": "70%"
       },
       {
-        "name": "Solidity",
-        "level": "60%"
+        "name": "Advanced development (javaScript, PHP, SASS, LESS, AngularJS, ReactJS, NodeJS, and more)",
+        "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "50%"
+        "name": "Solutions architecture & integrations",
+        "level": "70%"
       }
     ]
   },
@@ -105,6 +105,12 @@
         "category": "The multi-region AgriWebb website with over 50k monthly visitors",
         "image": "agriwebb.png",
         "url": "https://www.agriwebb.com"
+      },
+      {
+        "title": "AgriWebb Registration Modal",
+        "category": "Small angular application that allows users to register for the AgriWebb website",
+        "image": "agriwebb.png",
+        "url": "https://register.agriwebb.com/trial"
       },
       {
         "title": "The Entourage Website",
