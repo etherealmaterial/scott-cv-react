@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Scott Brown",
-    "occupation": "Website Developer & Marketing Specialist",
-    "description": "I am a highly motivated and passionate developer with a vision to positively change the world through innovation in technology",
+    "occupation": "Website Developer & MarTech Specialist",
+    "description": "I am a highly motivated and passionate person with a vision to positively change the world through innovation in technology",
     "image": "scott_profile.JPG",
     "bio": "I am a highly motivated and passionate person, and I believe innovation in technology is the key to a brighter future and I strive to take on opportunities that enable me to contribute toward this vision. Over the past 5 years of my career I have refined my skill set to create a fusion of expertise in development and marketing that has allowed me to achieve incredible things and I am now looking to take the next step in my adventure and create my best work yet!",
     "contactmessage": "Enter your details below and I will get in touch with you shortly!",
@@ -44,8 +44,14 @@
     "work": [
       {
         "company": "AgriWebb Pty Ltd",
+        "title": "Head of Marketing Technology (MarTech)",
+        "years": "October 2020 - Present",
+        "description": "At AgriWebb I am responsible for the development & management of all AgriWebb website & marketing technology assets globally including the creation of high performing landing pages, developing plugins to facilitate functional requirements, API development, and integrating the website as seamlessly as possible with our product. Additionally I am responsible for the management and integration across our entire MarTech stack including systems such as SalesForce, Pardot, Zoom, Intercom, and various others."
+      },
+      {
+        "company": "AgriWebb Pty Ltd",
         "title": "Website & Marketing Operations Manager",
-        "years": "March 2020 - Present",
+        "years": "March 2020 - October 2020",
         "description": "At AgriWebb I am responsible for the development & management of all AgriWebb website assets globally including the creation of high performing landing pages, developing plugins to facilitate functional requirements, API development, and integrating the website as seamlessly as possible with our product. Additionally I am responsible for the management and integration across our entire MarTech stack including systems such as SalesForce, Pardot, Zoom, Intercom, and various others."
       },
       {
