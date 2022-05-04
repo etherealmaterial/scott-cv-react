@@ -101,10 +101,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "AgriWebb Website",
-        "category": "The multi-region AgriWebb website with over 50k monthly visitors",
-        "image": "agriwebb.png",
-        "url": "https://www.agriwebb.com"
+        "title": "Coming Soon",
+        "category": "Coming Soon",
+        "image": "",
+        "url": ""
       },
       {
         "title": "AgriWebb Registration Modal",
